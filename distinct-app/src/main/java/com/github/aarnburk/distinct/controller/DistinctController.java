@@ -1,4 +1,4 @@
-package com.github.burkaa01.distinct.controller;
+package com.github.aarnburk.distinct.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

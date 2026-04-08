@@ -4,7 +4,7 @@ plugins {
 	id 'java'
 }
 
-group = 'com.github.burkaa01'
+group = 'com.github.aarnburk'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '17'
 

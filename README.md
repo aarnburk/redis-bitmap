@@ -12,9 +12,9 @@ Update images in docker-compose.yml accordingly
 
 `Docker hub images`
 ```
-image: burkaa01/redis-bitmap:distinct-app
-image: burkaa01/redis-bitmap:done-app
-image: burkaa01/redis-bitmap:trigger-app
+image: aarnburk/redis-bitmap:distinct-app
+image: aarnburk/redis-bitmap:done-app
+image: aarnburk/redis-bitmap:trigger-app
 ```
 Update images in docker-compose.yml accordingly
 

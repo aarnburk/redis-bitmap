@@ -14,7 +14,7 @@ services:
     restart: always
 
   distinct-app:
-    image: burkaa01/redis-bitmap:distinct-app
+    image: aarnburk/redis-bitmap:distinct-app
     container_name: distinct-app
     depends_on:
       - redis
@@ -27,7 +27,7 @@ services:
     restart: always
 
   done-app:
-    image: burkaa01/redis-bitmap:done-app
+    image: aarnburk/redis-bitmap:done-app
     container_name: done-app
     depends_on:
       - redis
@@ -40,7 +40,7 @@ services:
     restart: always
 
   trigger-app:
-    image: burkaa01/redis-bitmap:trigger-app
+    image: aarnburk/redis-bitmap:trigger-app
     container_name: trigger-app
     depends_on:
       - redis

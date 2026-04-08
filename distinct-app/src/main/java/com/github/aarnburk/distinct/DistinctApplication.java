@@ -1,4 +1,4 @@
-package com.github.burkaa01.distinct;
+package com.github.aarnburk.distinct;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

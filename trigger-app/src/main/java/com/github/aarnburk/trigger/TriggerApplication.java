@@ -1,4 +1,4 @@
-package com.github.burkaa01.trigger;
+package com.github.aarnburk.trigger;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

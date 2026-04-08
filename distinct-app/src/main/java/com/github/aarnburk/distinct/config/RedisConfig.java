@@ -1,4 +1,4 @@
-package com.github.burkaa01.trigger.config;
+package com.github.aarnburk.distinct.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

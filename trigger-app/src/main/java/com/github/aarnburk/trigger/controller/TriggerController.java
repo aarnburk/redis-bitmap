@@ -1,4 +1,4 @@
-package com.github.burkaa01.trigger.controller;
+package com.github.aarnburk.trigger.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
